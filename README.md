@@ -1,4 +1,4 @@
-# Data ecosystem in the 21st century, Technical Session Columbia Science-Po 2018
+# Data ecosystem in the 21st century, Technical Session Columbia Univ. Science-Po 2018
 *Thomas Roca, PhD, Data Strategist Microsoft*
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
