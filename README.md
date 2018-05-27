@@ -35,7 +35,7 @@ II. Accessing data from networks
   
 III. Hands on! Mining data from networks
 - Scarpping the web: 
-	- from the browser: **try to extract data from your internet browser using the console**
+	- from the browser: **try to extract data from your internet browser using the console and draw a graph using [highcharts](https://jsfiddle.net/ThomasRoca/rkbz7fhb/87/)**
 	- The proper way to scrap data: **Example with [python](https://notebooks.azure.com/ThomasMSFT/libraries/Tutorial/html/Scrap%20data%20from%20the%20web.ipynb)** 
 - [Hello World ! Make a call to World Bank api](https://jsfiddle.net/ThomasRoca/j5d919k4/)
 - Hands-on 1: [Make your first connected dataviz with Highcharts and World Bank API](https://www.highcharts.com/demo/line-basic) 
