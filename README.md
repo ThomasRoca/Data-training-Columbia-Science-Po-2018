@@ -36,10 +36,11 @@ II. Accessing data from networks
 III. Hands on! Mining data from networks
 - Scarpping the web: 
 	- from the browser
-	- with [python](https://notebooks.azure.com/ThomasMSFT/libraries/Tutorial/html/Scrap%20data%20from%20the%20web.ipynb)
+	- Example with [python](https://notebooks.azure.com/ThomasMSFT/libraries/Tutorial/html/Scrap%20data%20from%20the%20web.ipynb)
 - [Hello World ! Make a call to World Bank api](https://jsfiddle.net/ThomasRoca/j5d919k4/)
 - Hands-on 1: [make your first dataviz with Highcharts](https://www.highcharts.com/demo/line-basic) 
-- Hands-on 2: [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
+- Hands-on 2.1: Scraping Airparif with Python 
+- Hands-on 2.2: Using API e.g. [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
 - NEW !: [Tutorial: API and charts together](http://jsfiddle.net/ThomasRoca/37zddfn3/)
 ## More resources
 
