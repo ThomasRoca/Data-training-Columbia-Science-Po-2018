@@ -47,7 +47,8 @@ IV. Hands on! Mining data from networks (1h30)
 - Hands-on 2.1: Scraping Airparif with Python
 	- **Try to adapt the python example to get data from Aiparif and build a bar chart to display airquality in Paris for yesterday, today and tomorrow. [Link](https://www.airparif.asso.fr/rss/indices)**
 - Hands-on 2.2: Using API e.g. [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
-- NEW !: [Tutorial: API and charts together](http://jsfiddle.net/ThomasRoca/37zddfn3/)
+
+---
 
 
 ## Link from the presentation: 
