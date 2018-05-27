@@ -48,7 +48,37 @@ IV. Hands on! Mining data from networks (1h30)
 	- **Try to adapt the python example to get data from Aiparif and build a bar chart to display airquality in Paris for yesterday, today and tomorrow. [Link](https://www.airparif.asso.fr/rss/indices)**
 - Hands-on 2.2: Using API e.g. [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
 - NEW !: [Tutorial: API and charts together](http://jsfiddle.net/ThomasRoca/37zddfn3/)
-## More resources
+
+
+## Link from the presentation: 
+- [Reading a local JSON in JavaScript](https://jsfiddle.net/ThomasRoca/ss0wq9oq/14/)
+- API call to the world Bank WDI
+	- [https://api.worldbank.org/v2/countries/VNM/indicators/AG.LND.ARBL.ZS?per_page=5&MRV=5&format=json](https://api.worldbank.org/v2/countries/VNM/indicators/AG.LND.ARBL.ZS?per_page=5&MRV=5&format=json)
+	- [JSFiddle call to the API](https://jsfiddle.net/ThomasRoca/4gjfs1h2)
+- Getting real time pollution data in India: 
+	- End point of the API: https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?api-key=579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b&format=json&offset=0&limit=7
+- [Data application](https://jsfiddle.net/ThomasRoca/1vpypyc9/)
+- [Wikipedia page for Asia](https://en.wikipedia.org/wiki/Asia)
+- **JavaScript to scrap from the browser**
+	// Select an object and get its ID here:  GDP table id is dollar 0: $0
+	var Table = $$("tr", $0)
+	// Read first cell
+	Table[0].cells[0].innerText
+	// create an empty array
+	var array=[];
+	// loop
+	for(i=0; i<Table.length; i++) {
+	array[i]={name:"", data:[]};
+	//Copy the first column
+	array[i].name=Table[i].cells[1].innerText;
+	//Copy the second column
+	array[i].data=[parseFloat(Table[i].cells[2].innerText.replace(/[^\d\.\-]/g, ""))]
+	}
+	copy(array)
+	
+---
+
+# More resources
 
 ### Further reading:
 - Friendly, M., 1999, "Re-Visions of Minard", [link](http://www.datavis.ca/gallery/minard/minard.pdf])
