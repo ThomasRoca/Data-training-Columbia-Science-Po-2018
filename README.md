@@ -60,7 +60,7 @@ IV. Hands on! Mining data from networks (1h30)
 - [Data application](https://jsfiddle.net/ThomasRoca/1vpypyc9/)
 - [Wikipedia page for Asia](https://en.wikipedia.org/wiki/Asia)
 - **JavaScript to scrap from the browser**
-	// Select an object and get its ID here:  GDP table id is dollar 0: $0
+	```// Select an object and get its ID here:  GDP table id is dollar 0: $0
 	var Table = $$("tr", $0)
 	// Read first cell
 	Table[0].cells[0].innerText
@@ -74,7 +74,7 @@ IV. Hands on! Mining data from networks (1h30)
 	//Copy the second column
 	array[i].data=[parseFloat(Table[i].cells[2].innerText.replace(/[^\d\.\-]/g, ""))]
 	}
-	copy(array)
+	copy(array)```
 	
 ---
 
