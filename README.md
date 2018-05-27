@@ -22,20 +22,23 @@ We are also going to use:
 -  **Jupyter Notebook**, Microsoft Azure proposes an online Notebook that does not require python to be on your machine: [sign up- free](https://notebooks.azure.com/)
 
 ## Content
-I. Intro: Data flows in the information age
+**Part 1: 1h30**
+I. Intro: Data flows in the information age (30 min)
 - Data infrastructure
 - Machine's way to store data
 
-II. Accessing data from networks
+II. Accessing data from networks (1h)
 - API the programmatic way to share and access data
 - API: provides data and services
 - Algorithm and Machine Learning as a Service
   - [Example Sentiment analysis](https://pythonappcela.azurewebsites.net/sentiment_analysis)
   - [Faces and Emotion detection](http://pythonappcela.azurewebsites.net/computer_vision)
-  
-III. Cloud computing and AI: The Microsoft Framrework
+ 
+--- 
+**Part 2: 2h00**
+III. Cloud computing and AI: The Microsoft Framrework (30min)
 
-IV. Hands on! Mining data from networks
+IV. Hands on! Mining data from networks (1h30)
 - Scarpping the web: 
 	- from the browser: **try to extract data from your internet browser using the console and draw a graph using [highcharts](https://jsfiddle.net/ThomasRoca/rkbz7fhb/87/)**
 	- The proper way to scrap data: **Example with [python](https://notebooks.azure.com/ThomasMSFT/libraries/Tutorial/html/Scrap%20data%20from%20the%20web.ipynb)** 
