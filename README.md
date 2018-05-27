@@ -33,7 +33,9 @@ II. Accessing data from networks
   - [Example Sentiment analysis](https://pythonappcela.azurewebsites.net/sentiment_analysis)
   - [Faces and Emotion detection](http://pythonappcela.azurewebsites.net/computer_vision)
   
-III. Hands on! Mining data from networks
+III. Cloud computing and AI: The Microsoft Framrework
+
+IV. Hands on! Mining data from networks
 - Scarpping the web: 
 	- from the browser: **try to extract data from your internet browser using the console and draw a graph using [highcharts](https://jsfiddle.net/ThomasRoca/rkbz7fhb/87/)**
 	- The proper way to scrap data: **Example with [python](https://notebooks.azure.com/ThomasMSFT/libraries/Tutorial/html/Scrap%20data%20from%20the%20web.ipynb)** 
