@@ -75,7 +75,8 @@ IV. Hands on! Mining data from networks (1h30)
 	//Copy the second column
 	array[i].data=[parseFloat(Table[i].cells[2].innerText.replace(/[^\d\.\-]/g, ""))]
 	}
-	copy(array)```
+	copy(array)
+	```
 	
 ---
 
@@ -92,14 +93,10 @@ IV. Hands on! Mining data from networks (1h30)
 - Hagley, J. What is the difference bewteen infographic and dataviz ? [Link](http://www.jackhagley.com/What-s-the-difference-between-an-Infographic-and-a-Data-Visualisation)
 
 ### Tutorials
-**Hands on session**
-- Part 1: Getting data from your browser: https://medium.com/@mustaphamekhatria/getting-data-from-the-web-edf4c9809da9
-- Part 2: [Tutorial: API and charts together](http://jsfiddle.net/ThomasRoca/37zddfn3/)
 
 **Tuto I wrote for Highcharts**
 - [Open Data API for Chart Creation part1](https://www.highcharts.com/blog/data-science/233-world-bank-open-data-api-highcharts-part1/)
 - [Open Data API for Chart Creation part2](https://www.highcharts.com/blog/post/235-open-data-api-for-chart-creation-part-2/)
-
 
 - **online tools**
 	- [Pick your color](https://www.w3schools.com/colors/colors_picker.asp) with [Color brewer](http://colorbrewer2.org)
@@ -118,12 +115,10 @@ IV. Hands on! Mining data from networks (1h30)
 	- [Draw a graph with from API data](https://jsfiddle.net/ThomasRoca/pxmxpsed/2/)
 	- James' graph! Call Api, user interface and graph [link](https://jsfiddle.net/jegiles/ddffgz29/)
 	- [DHS API with leaflet](http://jsfiddle.net/ThomasRoca/069Lqfkz/?utm_source=website&utm_medium=embed&utm_campaign=069Lqfkz)
+
 - **Highcharts:**
 	- https://www.highcharts.com/demo
 	- https://www.highcharts.com/blog/
-- **Carto:**
-	- Video tutorial for Carto: in [french](https://www.youtube.com/watch?v=nRKSR635-Kk), in [spanish](https://www.youtube.com/watch?v=o2dUzQiwUYE&t=2s)
-	- Carto Workshop tutorial:https://github.com/CartoDB/carto-workshop
 - **HTML, CSS and JS:** 
 	- https://www.w3schools.com
 
