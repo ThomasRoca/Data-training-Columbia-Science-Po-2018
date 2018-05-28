@@ -23,6 +23,7 @@ We are also going to use:
 
 ## Content
 **Part 1: 1h30**
+
 I. Intro: Data flows in the information age (30 min)
 - Data infrastructure
 - Machine's way to store data
@@ -36,6 +37,7 @@ II. Accessing data from networks (1h)
  
 --- 
 **Part 2: 2h00**
+
 III. Cloud computing and AI: The Microsoft Framrework (30min)
 
 IV. Hands on! Mining data from networks (1h30)
