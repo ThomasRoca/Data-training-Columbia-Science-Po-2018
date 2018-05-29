@@ -41,13 +41,17 @@ II. Accessing data from networks (1h)
 III. Cloud computing and AI: The Microsoft Framrework (30min)
 
 IV. Hands on! Mining data from networks (1h30)
+
 **To do learn list**
+
 - Scarpping the web: 
 	- from the browser: **try to extract data from your internet browser using the console and draw a graph using [highcharts](https://jsfiddle.net/ThomasRoca/rkbz7fhb/87/)**
 	- The proper way to scrap data: **Example with [python](https://notebooks.azure.com/ThomasMSFT/libraries/Tutorial/html/Scrap%20data%20from%20the%20web.ipynb)** 
 - [Hello World ! Make a call to World Bank api](https://jsfiddle.net/ThomasRoca/j5d919k4/)
 - Hands-on 1: [Make your first connected dataviz with Highcharts and World Bank API](https://www.highcharts.com/demo/line-basic) 
+
 **To do list**
+
 - Hands-on 2.1: Scraping Airparif with Python
 	- **Try to adapt the python example to get data from Aiparif and build a bar chart to display airquality in Paris for yesterday, today and tomorrow. [Link](https://www.airparif.asso.fr/rss/indices)**
 - Hands-on 2.2: Using API e.g. [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
